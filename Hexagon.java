@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Hexagon {
-    private int length; // field to store the side length
+    private int length;
 
     public Hexagon() {
         input();
